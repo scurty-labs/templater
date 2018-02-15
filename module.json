@@ -1,0 +1,8 @@
+{
+	"module":"templater",
+	"about":"An easy to use Templating Module.",
+	"author":"Scott Rhine",
+	"version":"0.6.0",
+	"support":"N/A",
+	"depends":["std"]
+}
